@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/UdayByreddy/Graphs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/UdayByreddy/Graphs/tree/master/0733-flood-fill) |
 ## Depth-First Search
 |  |
@@ -14,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/UdayByreddy/Graphs/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/UdayByreddy/Graphs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/UdayByreddy/Graphs/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/UdayByreddy/Graphs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/UdayByreddy/Graphs/tree/master/0733-flood-fill) |
 ## Graph Theory
 |  |
@@ -27,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/UdayByreddy/Graphs/tree/master/0207-course-schedule) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/UdayByreddy/Graphs/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
