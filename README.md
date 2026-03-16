@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/UdayByreddy/Graphs/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/UdayByreddy/Graphs/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/UdayByreddy/Graphs/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/UdayByreddy/Graphs/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/UdayByreddy/Graphs/tree/master/0733-flood-fill) |
 | [1631-path-with-minimum-effort](https://github.com/UdayByreddy/Graphs/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/UdayByreddy/Graphs/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/UdayByreddy/Graphs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/UdayByreddy/Graphs/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/UdayByreddy/Graphs/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/UdayByreddy/Graphs/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/UdayByreddy/Graphs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/UdayByreddy/Graphs/tree/master/0785-is-graph-bipartite) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/UdayByreddy/Graphs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/UdayByreddy/Graphs/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/UdayByreddy/Graphs/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/UdayByreddy/Graphs/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/UdayByreddy/Graphs/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/UdayByreddy/Graphs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/UdayByreddy/Graphs/tree/master/0785-is-graph-bipartite) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/UdayByreddy/Graphs/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/UdayByreddy/Graphs/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/UdayByreddy/Graphs/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/UdayByreddy/Graphs/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/UdayByreddy/Graphs/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/UdayByreddy/Graphs/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -88,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/UdayByreddy/Graphs/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/UdayByreddy/Graphs/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/UdayByreddy/Graphs/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/UdayByreddy/Graphs/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/UdayByreddy/Graphs/tree/master/0721-accounts-merge) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/UdayByreddy/Graphs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/UdayByreddy/Graphs/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/UdayByreddy/Graphs/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/UdayByreddy/Graphs/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
